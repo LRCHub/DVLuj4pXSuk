@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Our Night is more beautiful than your Day",
+  "base_artist": "NewJeans",
+  "createdAt": "2026-03-23T18:36:00.373525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Our Night Is More Beautiful Than Your Day",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/01_Our_Night_Is_More_Beautiful_Than_Your_Day_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Our Night is more beautiful than your Day",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/02_Our_Night_is_more_beautiful_than_your_Day_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Our Night is more beautiful than your Day",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/03_Our_Night_is_more_beautiful_than_your_Day_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Our Night is more beautiful than your Day (inst.)",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/04_Our_Night_is_more_beautiful_than_your_Day_(inst.)_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Our Night is more beautiful than your Day (Instrumental)",
+      "artist": "NewJeans",
+      "has_synced": false,
+      "path": "select/05_Our_Night_is_more_beautiful_than_your_Day_(Instrumental)_NewJeans.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Our Night is more beautiful than your Day (우리의 밤은 당신의 낮보다 아름답다)",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/06_Our_Night_is_more_beautiful_than_your_Day_(우리의_밤은_당신의_낮보다_아름답다)_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Our Night is more beautiful than your Day (우리의 밤은 당신의 낮보다 아름답다)",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/07_Our_Night_is_more_beautiful_than_your_Day_(우리의_밤은_당신의_낮보다_아름답다)_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Our Night is more beautiful than your Day (우리의 밤은 당신의 낮보다 아름답다)",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/08_Our_Night_is_more_beautiful_than_your_Day_(우리의_밤은_당신의_낮보다_아름답다)_NewJeans.lrc"
+    }
+  ]
+}
